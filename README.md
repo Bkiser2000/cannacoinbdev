@@ -1,1 +1,2 @@
 # cannacoinbdev
+Cannacoin is an developing cryptocurrency project that aims to provide a store of value as well as a medium of exchange for cannabis consumers and businneses in areas where its legal. We are seeking any and all collaboration on this project and welcome any feedback on how we can improve the contract before it is deployed on a main net. We are looking to launch on the Cronos network if possible. 
