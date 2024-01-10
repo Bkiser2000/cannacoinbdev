@@ -68,7 +68,7 @@ contract Cannacoin is ERC20Burnable, Ownable, ReentrancyGuard {
     event VoteCasted(address indexed voter, uint256 proposalIndex, bool support);
 
     // Vault lock periods and APRs
-    uint256[] public lockPeriods = [0, 30 days, 90 days, 180 days, 365 days]; // Lock periods in seconds
+    uint256[] public lockPeriods = [0, 7884008.64, 15768017.3, 31557600, 126230400]; // Lock periods in seconds
     uint256[] public aprs = [0, 10, 36, 75, 200]; // Corresponding APRs in percentage
 
     // Event for penalty burning
